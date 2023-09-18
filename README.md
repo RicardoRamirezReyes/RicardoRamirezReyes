@@ -1,5 +1,15 @@
 ### Hola a todos 👋
 Actualmente trabajando con CRIRES+  (Update to September 2023)
+
+
+
+## Tecnologías:
+</br>
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+</br>
+Y alguna más...
+
+
 <!--
 **RicardoRamirezReyes/RicardoRamirezReyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
