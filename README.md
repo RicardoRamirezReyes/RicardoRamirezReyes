@@ -4,7 +4,6 @@ Actualmente trabajando con CRIRES+  (Update to September 2023)
 
 
 ## Tecnologías:
-</br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
